@@ -1,4 +1,4 @@
-# 🎬 Netflix Data Analysis – Excel & Power BI
+# 🎬 Netflix Movies & Tv shows Analysis – Excel & Power BI
 
 ## 📌 Project Overview
 This project analyzes the Netflix titles dataset to explore trends in movies and TV shows.  
