@@ -86,11 +86,6 @@ Netflix-Movies-Tvshow-analysis/
 
 ## 📸 Dashboard Preview
 
-> _Add a screenshot of your Power BI dashboard here!_
-> `![Dashboard Preview](your-screenshot-link.png)`
-
----
-
 ## 🙋‍♂️ Author
 
 <div align="center">
