@@ -85,7 +85,9 @@ Netflix-Movies-Tvshow-analysis/
 ---
 
 ## 📸 Dashboard Preview
+## 📸 Dashboard Preview
 
+![Dashboard Preview](Screenshot%202026-04-16%20111512.png)
 ## 🙋‍♂️ Author
 
 <div align="center">
